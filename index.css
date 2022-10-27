@@ -8,8 +8,8 @@ nav li {
 
 nav a{
     text-transform: uppercase;
-    color: yellow;
-    background-color: #0931d2;
+    color: rgb(189, 0, 0);
+    background-color: #000000;
 }
 
 .texto-principal {
@@ -17,7 +17,7 @@ nav a{
 }
 
 h1 {
-    color: #0931d2;
+    color: #cc1003;
     text-align: center;
 }
 h2 {
@@ -30,7 +30,7 @@ p {
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
-    border: 5px dotted salmon;
+    border: 5px dotted rgb(190, 26, 8);
     float: left;
     position: absolute;
 }
